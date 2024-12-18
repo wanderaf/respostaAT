@@ -13,7 +13,7 @@ Streamlit: Uma interface interativa para explorar os dados de forma visual.
 Configuração do Ambiente
 Clone o repositório:
 
-git clone https://github.com/wanderaf/dtat/tree/main/OneDrive/INFNET/7.%206%C2%BA%20Semestre/Desenvolvimento%20de%20Data-Driven%20Apps%20com%20Python/AT
+git clone https://github.com/wanderaf/respostaAT
 cd seu-repositorio
 Crie o ambiente virtual:
 
