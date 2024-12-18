@@ -1,6 +1,5 @@
 from statsbombpy import sb
-import pandas as pd
-
+ 
 def get_match_data(match_id: int):
     """
     Extrai os dados brutos de uma partida específica.
